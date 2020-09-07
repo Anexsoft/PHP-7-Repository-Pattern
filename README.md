@@ -14,5 +14,6 @@ composer install
 ## ¿Dónde encuentro el curso?
 A través del siguiente enlace
 
+https://www.youtube.com/playlist?list=PL9prAn3zOWZ4lF4T5l7Mc89Rd47mlh_IF
 
 Pd. No olvides suscribirte al canal
