@@ -1,0 +1,9 @@
+{
+    "name": "kodoti/php-7",
+    "autoload": {
+        "psr-4": {
+            "Kodoti\\": "kodoti/",
+            "App\\": "app/"
+        }
+    }
+}
